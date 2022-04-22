@@ -10,3 +10,4 @@ resources:
 - namespace.yaml
 - rbac.yaml
 - statefulset.yaml
+- rabbitmq-admin.yaml
