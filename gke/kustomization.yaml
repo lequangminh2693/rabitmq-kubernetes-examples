@@ -11,3 +11,4 @@ resources:
 - rbac.yaml
 - statefulset.yaml
 - rabbitmq-admin.yaml
+- erlang-cookie.yaml
