@@ -4,7 +4,7 @@ commonLabels:
   app: rabbitmq
 
 resources:
-- configMap.yaml
+- configmap.yaml
 - client-service.yaml
 - headless-service.yaml
 - namespace.yaml
