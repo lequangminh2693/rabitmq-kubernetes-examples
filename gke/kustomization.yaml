@@ -5,7 +5,7 @@ commonLabels:
 
 resources:
 - configmap.yaml
-- client-service.yaml
+- service.yaml
 - headless-service.yaml
 - namespace.yaml
 - rbac.yaml
